@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Laba_Four.vcxproj, Laba_One.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab9
+D:\GitHub\OSIS\l9\Lab9(190,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\GitHub\OSIS\l9\Lab9(190,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Laba_One.vcxproj -> D:\GitHub\OSIS\l9\Debug\[OSIS]Lab9.exe

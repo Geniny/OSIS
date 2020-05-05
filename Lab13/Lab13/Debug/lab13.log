@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  lab13.cpp
+D:\GitHub\OSIS\l13\lab13\lab13.cpp(307,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\OSIS\l13\lab13\lab13.cpp(318,1): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h(1446): message : see declaration of '_swprintf'
+D:\GitHub\OSIS\l13\lab13\lab13.cpp(351,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\OSIS\l13\lab13\lab13.cpp(389): warning C4715: 'GetPriority': not all control paths return a value
+  lab13.vcxproj -> D:\GitHub\OSIS\l13\Project1\Debug\lab13.exe
